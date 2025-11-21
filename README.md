@@ -1,2 +1,2 @@
-# Matlab-Group-F
-Group for doing and submitting assignments 
+OGWANG EMMANUEL A.
+REPOSITORY FOR SUBMITTING ASSIGNMENTS
